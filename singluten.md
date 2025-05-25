@@ -32,3 +32,10 @@ Preparación: Tritura todo, mezcla bien y hornea hasta que esté firme y húmedo
 - Frutos secos y semillas.
 - Productos certificados “sin gluten” para evitar contaminación cruzada.
 
+ ## Consejos de preparación
+
+- Revisa etiquetas y certificaciones de todos los productos.
+- Cocina en superficies limpias y con utensilios separados para evitar contaminación cruzada.
+- Prioriza alimentos naturales que no contengan gluten por defecto.
+- Sustituye el pan común por opciones de maíz, arroz o panadería sin gluten.
+- Prueba recetas caseras para controlar los ingredientes y evitar conservantes o espesantes con gluten oculto.
