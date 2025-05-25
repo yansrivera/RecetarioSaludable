@@ -1,5 +1,4 @@
 # GUÍA DE COMIDAS SALUDABLES POR ESTILO DE VIDA
-![comidas saludables](https://cdn.aarp.net/content/dam/aarp/health/healthy-living/2021/03/1140-healthy-meal-prep-esp.imgcache.rev.web.700.402.jpg)
 ---
 ![RECETAS](https://i.ytimg.com/vi/CqIwiBATk4A/maxresdefault.jpg)
 ## BIENVENIDO
