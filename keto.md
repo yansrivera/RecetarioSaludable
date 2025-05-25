@@ -28,3 +28,36 @@ Fundamentos de la dieta keto:
 
 ![pollo con champiñones](https://i.dietdoctor.com/es/wp-content/uploads/2019/12/pollo-queso-parmesano-champinones_h.jpg?auto=compress%2Cformat&w=2000&h=1333&fit=crop)
 El pollo es una de nuestras cenas favoritas. Aquí lo preparamos en una sola sartén junto con una cremosa salsa con queso y setas. Es una comida keto rápida ideal para las noches más ajetreadas porque se prepara en menos de 30 minutos.
+
+# Recomendaciones de ingredientes
+
+## 🥑 Grasas saludables (base de la dieta keto)
+Aceite de oliva extra virgen
+Aceite de coco
+Aguacate
+Mantequilla (de vacas alimentadas con pasto, idealmente)
+Ghee (mantequilla clarificada)
+Aceite de aguacate
+
+## 🍗 Proteínas bajas en carbohidratos
+Huevos (excelente fuente de proteína y grasa)
+
+Carnes rojas (res, cordero, cerdo)
+Pollo, pavo y pato
+Pescados grasos (salmón, atún, sardinas, caballa)
+Mariscos (camarones, mejillones, pulpo)
+🔎 Importante: Evita carnes procesadas con azúcar o almidones añadidos.
+
+## 🧀 Lácteos enteros (si los toleras bien)
+Quesos curados (parmesano, cheddar, suizo)
+Queso crema
+Yogur griego natural (sin azúcar)
+Nata para batir (crema de leche)
+
+## 🥦 Vegetales bajos en carbohidratos
+Espinaca, acelga, kale (col rizada)
+Lechuga, rúcula
+Brócoli, coliflor, repollo
+Pepino, apio, calabacín (zucchini)
+Espárragos y champiñones
+
