@@ -31,3 +31,12 @@ Preparación: Mezcla todo en una bandeja para hornear, hornea hasta que el pollo
 - Lácteos fermentados como el yogur y el queso en porciones moderadas.
 - Carnes blancas (pollo, pavo) en lugar de carnes rojas.
 - Vino tinto con moderación (opcional y solo en adultos).
+
+# Consejos de preparación
+
+- Utiliza aceite de oliva en crudo y para cocinar, evitando grasas procesadas.
+- Prefiere métodos como asado, salteado, cocido al vapor o al horno.
+- Acompaña las comidas con ensaladas frescas y pan integral.
+- Prioriza alimentos locales y de temporada para conservar sabor y nutrientes.
+- Limita el consumo de productos envasados, refinados y ultraprocesados.
+
