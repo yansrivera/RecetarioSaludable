@@ -10,9 +10,9 @@ Aquí descubrirás recetas, consejos e ingredientes clave según diferentes enfo
 
 ## ESTILOS INCLUIDOS
 - [Keto 🥓](keto.md)  
-- [Vegano 🌱](vegano.md)  
-- [Paleo 🥩](paleo.md)  
-- [Mediterráneo 🫒](mediterraneo.md)  
+- [Vegano 🌱](vegana.md)  
+- [Paleo 🥩](palea.md)  
+- [Mediterráneo 🫒](mediterraneA.md)  
 - [Sin Gluten 🚫🌾](singluten.md)  
 
 ---
