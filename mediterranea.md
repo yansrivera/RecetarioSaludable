@@ -19,3 +19,15 @@ Preparación: Cocina la pasta, saltea las verduras con ajo y mezcla todo con el 
 ![pollo al horno](https://i.ytimg.com/vi/0MtBZSGcY6M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDnIh-Cz7JDORJWKOM-kgyOVxFsbQ)
 Ingredientes: muslos o pechuga de pollo, papas, ajo, romero fresco, limón, aceite de oliva, sal y pimienta.
 Preparación: Mezcla todo en una bandeja para hornear, hornea hasta que el pollo esté dorado y las papas tiernas.
+
+# Recomendaciones de ingredientes
+
+- Aceite de oliva virgen extra como principal fuente de grasa.
+- Frutas frescas como postre diario.
+- Verduras y hortalizas en cada comida.
+- Cereales integrales (pan de masa madre, arroz integral, avena).
+- Legumbres: lentejas, garbanzos, habas.
+- Pescado y mariscos varias veces por semana.
+- Lácteos fermentados como el yogur y el queso en porciones moderadas.
+- Carnes blancas (pollo, pavo) en lugar de carnes rojas.
+- Vino tinto con moderación (opcional y solo en adultos).
