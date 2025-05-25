@@ -1,7 +1,7 @@
 # GUÍA DE COMIDAS SALUDABLES POR ESTILO DE VIDA
 ![comidas saludables](https://cdn.aarp.net/content/dam/aarp/health/healthy-living/2021/03/1140-healthy-meal-prep-esp.imgcache.rev.web.700.402.jpg)
 ---
-
+![RECETAS](https://i.ytimg.com/vi/CqIwiBATk4A/maxresdefault.jpg)
 ## BIENVENIDO
 
 Bienvenido a la Guía de Comidas Saludables por Estilo de Vida.  
@@ -11,10 +11,10 @@ Aquí descubrirás recetas, consejos e ingredientes clave según diferentes enfo
 
 ## ESTILOS INCLUIDOS
 - [Keto 🥓](keto.md)  
-- [Vegano 🌱](RECETAS/vegano.md)  
-- [Paleo 🥩](RECETAS/paleo.md)  
-- [Mediterráneo 🫒](RECETAS/mediterraneo.md)  
-- [Sin Gluten 🚫🌾](RECETAS/singluten.md)  
+- [Vegano 🌱](vegano.md)  
+- [Paleo 🥩](paleo.md)  
+- [Mediterráneo 🫒](mediterraneo.md)  
+- [Sin Gluten 🚫🌾](singluten.md)  
 
 ---
 
