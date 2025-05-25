@@ -21,3 +21,12 @@ Preparación: Sofríe cebolla, ajo y jengibre, añade curry y tomate, incorpora 
 ![espaguetis veganos](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Ag9BeKLb-4MRI5_Cm4j7VB4Lrjqo9n5qkA&s)
 Ingredientes: espaguetis integrales, nueces, ajo, levadura nutricional, leche vegetal, aceite de oliva.
 Preparación: Procesa nueces con ajo, levadura y leche vegetal. Cocina la pasta y mezcla con la salsa caliente.
+
+## Recomendaciones de ingredientes
+
+- Proteínas vegetales: lentejas, garbanzos, tofu, soya texturizada.
+- Grasas saludables: aguacate, aceite de oliva, frutos secos.
+- Cereales integrales: quinoa, arroz integral, avena.
+- Verduras y frutas frescas de temporada.
+- Leches vegetales sin azúcar añadida.
+- Condimentos: cúrcuma, paprika, curry, pimienta negra, ajo, cebolla, hierbas frescas.
