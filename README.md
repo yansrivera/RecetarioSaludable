@@ -12,7 +12,7 @@ Aquí descubrirás recetas, consejos e ingredientes clave según diferentes enfo
 - [Keto 🥓](keto.md)  
 - [Vegano 🌱](vegana.md)  
 - [Paleo 🥩](palea.md)  
-- [Mediterráneo 🫒](mediterraneA.md)  
+- [Mediterráneo 🫒](mediterranea.md)  
 - [Sin Gluten 🚫🌾](singluten.md)  
 
 ---
