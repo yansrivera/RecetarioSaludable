@@ -31,3 +31,10 @@ Preparación: Tritura los plátanos, mezcla con los huevos, y cocina en sartén 
 - Grasas saludables: aceite de oliva, aceite de coco, palta.
 - Condimentos naturales: ajo, romero, tomillo, cúrcuma, pimienta.
 
+## Consejos de preparación
+
+- Cocina con métodos simples: al horno, a la plancha, al vapor o a la parrilla.
+- Evita salsas comerciales; haz tus propios aderezos con aceite de oliva, limón y especias.
+- Planifica tus comidas con proteínas como base y acompáñalas con vegetales variados.
+- Usa caldos caseros (de hueso o vegetales) para sopas y guisos.
+- Ten snacks paleo a mano como nueces, frutas deshidratadas o chips de vegetales sin procesar.
