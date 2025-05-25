@@ -21,5 +21,13 @@ Ingredientes: plátanos maduros, huevos, canela (opcional), aceite de coco para 
 Preparación: Tritura los plátanos, mezcla con los huevos, y cocina en sartén caliente con aceite de coco hasta que doren por ambos lados. 
 
 
+## Recomendaciones de ingredientes
 
+- Carnes magras: pollo, res, cerdo, cordero.
+- Pescados y mariscos: salmón, atún, camarones, sardinas.
+- Huevos de gallinas criadas libremente.
+- Verduras y frutas frescas, preferiblemente de temporada.
+- Frutos secos y semillas (sin sal ni aceites añadidos).
+- Grasas saludables: aceite de oliva, aceite de coco, palta.
+- Condimentos naturales: ajo, romero, tomillo, cúrcuma, pimienta.
 
