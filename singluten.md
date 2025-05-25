@@ -21,5 +21,14 @@ Preparación: Saltea los vegetales con aceite y ajo, añade la quinoa y el huevo
 Ingredientes: plátanos maduros, huevos, cacao en polvo puro, mantequilla de maní, vainilla.
 Preparación: Tritura todo, mezcla bien y hornea hasta que esté firme y húmedo por dentro.
 
+## Recomendaciones de ingredientes
 
+- Harinas alternativas: arroz, maíz, almendra, coco, garbanzo.
+- Granos sin gluten: quinoa, amaranto, arroz integral, mijo.
+- Frutas y verduras frescas.
+- Carnes, pescados y huevos sin procesar.
+- Legumbres naturales (no enlatadas con aditivos).
+- Lácteos simples: leche, yogur natural, quesos sin aditivos.
+- Frutos secos y semillas.
+- Productos certificados “sin gluten” para evitar contaminación cruzada.
 
