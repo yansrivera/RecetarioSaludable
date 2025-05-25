@@ -30,3 +30,10 @@ Preparación: Procesa nueces con ajo, levadura y leche vegetal. Cocina la pasta 
 - Verduras y frutas frescas de temporada.
 - Leches vegetales sin azúcar añadida.
 - Condimentos: cúrcuma, paprika, curry, pimienta negra, ajo, cebolla, hierbas frescas.
+
+## Consejos de preparación
+- Planifica tus comidas con anticipación para asegurar variedad y nutrición.
+- Remoja legumbres antes de cocinarlas para mejorar la digestión.
+- Usa levadura nutricional como fuente de sabor y vitamina B12 (si está enriquecida).
+- Combina carbohidratos, proteínas y grasas vegetales en cada comida.
+- Experimenta con especias y hierbas para crear sabores intensos sin necesidad de productos animales.
