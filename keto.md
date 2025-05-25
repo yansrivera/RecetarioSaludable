@@ -61,3 +61,25 @@ Brócoli, coliflor, repollo
 Pepino, apio, calabacín (zucchini)
 Espárragos y champiñones
 
+# consejos de preparacion
+
+🍳 Huevos con albahaca
+- Usa huevos frescos y albahaca natural para un sabor más auténtico.
+- Cocina a fuego medio-bajo para evitar que los huevos se sequen.
+- Agrega sal y pimienta al final para evitar que los huevos suelten agua.
+- Añade la albahaca justo al final para conservar su aroma y color.
+- Sirve con aguacate o queso parmesano rallado para aumentar las grasas buenas.
+
+🍔 Hamburguesas envueltas en bacon
+- Usa carne 80% magra y 20% grasa para que no queden secas.
+- Envuelve las hamburguesas con bacon crudo y firme, no precocido.
+- Sella primero a fuego alto para dorar el bacon, luego baja la temperatura.
+- No presiones la carne al cocinarla, así conservarás los jugos.
+- Acompaña con hojas de lechuga en lugar de pan para mantenerlo keto.
+
+🍗 Pollo con champiñones en sartén
+- Usa pechuga o muslo deshuesado según tu preferencia.
+- Sella el pollo primero antes de añadir champiñones para que tome buen color.
+- Cocina los champiñones por separado para que suelten y evaporen el agua.
+- Usa crema de leche o queso crema para espesar la salsa sin usar harina.
+- Agrega ajo, tomillo o romero fresco para potenciar el sabor sin carbohidratos.
